@@ -1,0 +1,11 @@
+{
+  "autorun": false,
+  "terminals": [
+    {
+      "name": "App",
+      "focus": true,
+      "color": "terminal.ansiCyan",
+      "command": "npm run dev"
+    }
+  ]
+}

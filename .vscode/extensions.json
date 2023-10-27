@@ -1,0 +1,11 @@
+{
+    "recommendations": [
+        "dbaeumer.vscode-eslint",
+        "eamodio.gitlens",
+        "vunguyentuan.vscode-postcss",
+        "csstools.postcss",
+        "esbenp.prettier-vscode",
+        "bradlc.vscode-tailwindcss",
+        "fabiospampinato.vscode-terminals"
+    ]
+}
